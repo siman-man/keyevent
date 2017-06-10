@@ -10,6 +10,7 @@ module Keyevent
   ETX = "\u0003"
   SUB = "\u001A"
   TAB = "\t"
+  SPACE = " "
 
   UP = "\e[A"
   DOWN = "\e[B"
